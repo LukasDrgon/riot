@@ -11,6 +11,7 @@
 
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-url]
+[![jsDelivr Hits][jsdelivr-image]][jsdelivr-url]
 [![MIT License][license-image]][license-url]
 [![Coverage Status][coverage-image]][coverage-url]
 [![Code Quality][codeclimate-image]][codeclimate-url]
@@ -352,6 +353,9 @@ Become a sponsor to get your logo on our README. [Become a sponsor][support-url]
 [npm-version-image]:http://img.shields.io/npm/v/riot.svg?style=flat-square
 [npm-downloads-image]:http://img.shields.io/npm/dm/riot.svg?style=flat-square
 [npm-url]:https://npmjs.org/package/riot
+
+[jsdelivr-image]: https://data.jsdelivr.com/v1/package/npm/riot/badge
+[jsdelivr-url]: https://www.jsdelivr.com/package/npm/riot
 
 [riot-forum-image]:https://img.shields.io/badge/muut-JOIN_FORUM%E2%86%92-ff0044.svg?style=flat-square
 [riot-forum-url]:http://riotjs.com/forum/
